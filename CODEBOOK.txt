@@ -1,0 +1,15 @@
+CODEBOOK
+
+1) to run this script you need to create a repository named Getting and Cleaning Data Course Project on your github account
+2) Start a project linked to that repository on Rstudio
+3)Download and Unzip the files from the following link: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+4) Cut the text files and paste them in the folder of the project
+5) Run de script. 
+6)Load the datasets
+7) Merge files related to X,Y, Subjects using rbind
+8) Merge files Subject, X and Y using c bind
+9) Drop data sets you don't need
+10) select columns that are required, using "select" and "contain".
+11) change numbers by name in a column
+12) Change names using rename, names and gsub.
+13) Create an independend data set  
